@@ -47,4 +47,4 @@ const Experts = () => {
     );
 };
 
-export default Experts
+export default Experts;
